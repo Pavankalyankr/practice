@@ -1,2 +1,2 @@
 # practice
-practicing the git repository from the scratch.
+practicing the git and github repository from the scratch.
